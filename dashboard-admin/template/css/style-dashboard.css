@@ -1,0 +1,98 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-style {
+    font-size: 25px;
+    color: #1F3BB3;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*
+.cox-xs-1, .cox-sm-1, .cox-md-1, .cox-lg-1, .cox-xs-2, .cox-sm-2, .cox-md-2, .cox-lg-2, .cox-xs-3, .cox-sm-3, .cox-md-3, .cox-lg-3, .cox-xs-4, .cox-sm-4, .cox-md-4, .cox-lg-4, .cox-xs-5, .cox-sm-5, .cox-md-5, .cox-lg-5, .cox-xs-6, .cox-sm-6, .cox-md-6, .cox-lg-6, .cox-xs-7, .cox-sm-7, .cox-md-7, .cox-lg-7, .cox-xs-8, .cox-sm-8, .cox-md-8, .cox-lg-8, .cox-xs-9, .cox-sm-9, .cox-md-9, .cox-lg-9, .cox-xs-10, .cox-sm-10, .cox-md-10, .cox-lg-10, .cox-xs-11, .cox-sm-11, .cox-md-11, .cox-lg-11, .cox-xs-12, .cox-sm-12, .cox-md-12, .cox-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+.panel-body {
+    padding: 15px;
+}
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.panel-heading > .dropdown .dropdown-toggle {
+    color: inherit;
+}
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit;
+}
+.panel-title > a {
+    color: inherit;
+}
+.panel-footer {
+    padding: 10px 15px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.panel-primary {
+    border-color: #428bca;
+}
+.panel-primary > .panel-heading {
+    color: #fff;
+    background-color: #428bca;
+    border-color: #428bca;
+}
+.panel-primary > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color: #428bca;
+}
+.panel-primary > .panel-heading .badge {
+    color: #428bca;
+    background-color: #fff;
+}
+.panel-primary > .panel-footer + .panel-collapse > .panel-body {
+    border-bottom-color: #428bca;
+}
+
+.text-right {
+    text-align: right;
+}
+.data {
+    margin-top: 30px;
+}
+.pull-right {
+    float: right !important;
+}
+.pull-left {
+    float: left !important;
+}
+
+@media (min-width: 1200px) {
+    .cox-lg-3 {
+      float: left;
+    }
+    .cox-lg-3 {
+        width: 30%;
+    }
+}
+*/

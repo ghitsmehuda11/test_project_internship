@@ -1,0 +1,19 @@
+.logo-kategori {
+    width: 10%;
+}
+.nama-kategori {
+    text-align:center;
+    padding: 10px 20px;
+    color:black;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+@media screen and (max-width: 1080px) {
+    .logo-kategori { width: 100%; }
+}
